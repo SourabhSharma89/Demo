@@ -15,7 +15,7 @@ $(document).ready(function(){
 							  
 							 $(function() {
 					  
-									// gather all inputs of selected types
+									// gather 
 									var inputs = $('.tab,.done1,.calc'), inputTo;
 									
 									// bind on keydown
